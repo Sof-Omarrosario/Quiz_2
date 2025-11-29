@@ -7,4 +7,10 @@
 
 4. 🍩 CAD: Diseño asistido por computadora para ingeniería.
 
+5. 🦁 Race Condition (Condición de Carrera): Situación donde el resultado de la ejecución depende del orden o la temporización incontrolada de múltiples hilos.
+
+
+
+
+
   

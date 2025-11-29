@@ -4,4 +4,7 @@
 2. ⌚️ Avatar: Represantación grafica o digital de un usuario.
 
 3. 🤮 Backend: Parte de una aplicación que gestiona la lógica del negocio y la conexión con la base de datos.
+
+4. 🍩 CAD: Diseño asistido por computadora para ingeniería.
+
   
